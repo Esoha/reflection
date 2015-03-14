@@ -1,9 +1,2 @@
-      What happens when you initialize a repository? Why do you need to do it?
-    It creats .git file where all changes is recorded and we need it to track the changes and quickly find the bugs.
-
-      How is the staging area different from the working directory and the repository? What value do you think it offers?
-    In staging area files is in temporary stage. It consist file content before changes.
-
-      Some changes made
-    Some more
-    
+  How is the staging area different from the working directory and the repository? What value do you think it offers?
+File in staging area consist last edited content then in working and in the reposistory. It consist last edited content.
