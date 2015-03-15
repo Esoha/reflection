@@ -1,2 +1,8 @@
   How is the staging area different from the working directory and the repository? What value do you think it offers?
-File in staging area consist last edited content then in working and in the reposistory. It consist last edited content.
+File in staging area consist last edited content then in working and in the reposistory. It consist last edited content
+
+  How can you use the staging area to make sure you have one commit per logical change?
+To use command git diff --staged
+
+  What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches may help to create a version or kind of milestone.
