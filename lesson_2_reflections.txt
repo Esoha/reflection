@@ -6,3 +6,6 @@ To use command git diff --staged
 
   What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches may help to create a version or kind of milestone.
+
+  How do the diagrams help you visualize the branch structure?
+Diagrams help to define where is master and branch goes.
